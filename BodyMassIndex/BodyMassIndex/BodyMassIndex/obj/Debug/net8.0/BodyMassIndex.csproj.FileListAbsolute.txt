@@ -1,0 +1,28 @@
+C:\Users\100390232\source\repos\BodyMassIndex\BodyMassIndex\bin\Debug\net8.0\BodyMassIndex.exe
+C:\Users\100390232\source\repos\BodyMassIndex\BodyMassIndex\bin\Debug\net8.0\BodyMassIndex.deps.json
+C:\Users\100390232\source\repos\BodyMassIndex\BodyMassIndex\bin\Debug\net8.0\BodyMassIndex.runtimeconfig.json
+C:\Users\100390232\source\repos\BodyMassIndex\BodyMassIndex\bin\Debug\net8.0\BodyMassIndex.dll
+C:\Users\100390232\source\repos\BodyMassIndex\BodyMassIndex\bin\Debug\net8.0\BodyMassIndex.pdb
+C:\Users\100390232\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\net8.0\BodyMassIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\100390232\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\net8.0\BodyMassIndex.AssemblyInfoInputs.cache
+C:\Users\100390232\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\net8.0\BodyMassIndex.AssemblyInfo.cs
+C:\Users\100390232\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\net8.0\BodyMassIndex.csproj.CoreCompileInputs.cache
+C:\Users\100390232\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\net8.0\BodyMassIndex.dll
+C:\Users\100390232\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\net8.0\refint\BodyMassIndex.dll
+C:\Users\100390232\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\net8.0\BodyMassIndex.pdb
+C:\Users\100390232\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\net8.0\BodyMassIndex.genruntimeconfig.cache
+C:\Users\100390232\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\net8.0\ref\BodyMassIndex.dll
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\BodyMassIndex\BodyMassIndex\BodyMassIndex\bin\Debug\net8.0\BodyMassIndex.exe
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\BodyMassIndex\BodyMassIndex\BodyMassIndex\bin\Debug\net8.0\BodyMassIndex.deps.json
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\BodyMassIndex\BodyMassIndex\BodyMassIndex\bin\Debug\net8.0\BodyMassIndex.runtimeconfig.json
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\BodyMassIndex\BodyMassIndex\BodyMassIndex\bin\Debug\net8.0\BodyMassIndex.dll
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\BodyMassIndex\BodyMassIndex\BodyMassIndex\bin\Debug\net8.0\BodyMassIndex.pdb
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\BodyMassIndex\BodyMassIndex\BodyMassIndex\obj\Debug\net8.0\BodyMassIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\BodyMassIndex\BodyMassIndex\BodyMassIndex\obj\Debug\net8.0\BodyMassIndex.AssemblyInfoInputs.cache
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\BodyMassIndex\BodyMassIndex\BodyMassIndex\obj\Debug\net8.0\BodyMassIndex.AssemblyInfo.cs
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\BodyMassIndex\BodyMassIndex\BodyMassIndex\obj\Debug\net8.0\BodyMassIndex.csproj.CoreCompileInputs.cache
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\BodyMassIndex\BodyMassIndex\BodyMassIndex\obj\Debug\net8.0\BodyMassIndex.dll
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\BodyMassIndex\BodyMassIndex\BodyMassIndex\obj\Debug\net8.0\refint\BodyMassIndex.dll
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\BodyMassIndex\BodyMassIndex\BodyMassIndex\obj\Debug\net8.0\BodyMassIndex.pdb
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\BodyMassIndex\BodyMassIndex\BodyMassIndex\obj\Debug\net8.0\BodyMassIndex.genruntimeconfig.cache
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\BodyMassIndex\BodyMassIndex\BodyMassIndex\obj\Debug\net8.0\ref\BodyMassIndex.dll

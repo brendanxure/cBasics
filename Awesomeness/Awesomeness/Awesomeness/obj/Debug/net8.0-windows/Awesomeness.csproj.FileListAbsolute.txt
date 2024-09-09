@@ -1,0 +1,32 @@
+C:\Users\100390232\source\repos\Awesomeness\Awesomeness\bin\Debug\net8.0-windows\Awesomeness.exe
+C:\Users\100390232\source\repos\Awesomeness\Awesomeness\bin\Debug\net8.0-windows\Awesomeness.deps.json
+C:\Users\100390232\source\repos\Awesomeness\Awesomeness\bin\Debug\net8.0-windows\Awesomeness.runtimeconfig.json
+C:\Users\100390232\source\repos\Awesomeness\Awesomeness\bin\Debug\net8.0-windows\Awesomeness.dll
+C:\Users\100390232\source\repos\Awesomeness\Awesomeness\bin\Debug\net8.0-windows\Awesomeness.pdb
+C:\Users\100390232\source\repos\Awesomeness\Awesomeness\obj\Debug\net8.0-windows\Awesomeness.csproj.GenerateResource.cache
+C:\Users\100390232\source\repos\Awesomeness\Awesomeness\obj\Debug\net8.0-windows\Awesomeness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\100390232\source\repos\Awesomeness\Awesomeness\obj\Debug\net8.0-windows\Awesomeness.AssemblyInfoInputs.cache
+C:\Users\100390232\source\repos\Awesomeness\Awesomeness\obj\Debug\net8.0-windows\Awesomeness.AssemblyInfo.cs
+C:\Users\100390232\source\repos\Awesomeness\Awesomeness\obj\Debug\net8.0-windows\Awesomeness.csproj.CoreCompileInputs.cache
+C:\Users\100390232\source\repos\Awesomeness\Awesomeness\obj\Debug\net8.0-windows\Awesomeness.dll
+C:\Users\100390232\source\repos\Awesomeness\Awesomeness\obj\Debug\net8.0-windows\refint\Awesomeness.dll
+C:\Users\100390232\source\repos\Awesomeness\Awesomeness\obj\Debug\net8.0-windows\Awesomeness.pdb
+C:\Users\100390232\source\repos\Awesomeness\Awesomeness\obj\Debug\net8.0-windows\Awesomeness.genruntimeconfig.cache
+C:\Users\100390232\source\repos\Awesomeness\Awesomeness\obj\Debug\net8.0-windows\ref\Awesomeness.dll
+C:\Users\100390232\source\repos\Awesomeness\Awesomeness\obj\Debug\net8.0-windows\Awesomeness.formAwesomeness.resources
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\Awesomeness\Awesomeness\Awesomeness\bin\Debug\net8.0-windows\Awesomeness.exe
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\Awesomeness\Awesomeness\Awesomeness\bin\Debug\net8.0-windows\Awesomeness.deps.json
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\Awesomeness\Awesomeness\Awesomeness\bin\Debug\net8.0-windows\Awesomeness.runtimeconfig.json
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\Awesomeness\Awesomeness\Awesomeness\bin\Debug\net8.0-windows\Awesomeness.dll
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\Awesomeness\Awesomeness\Awesomeness\bin\Debug\net8.0-windows\Awesomeness.pdb
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\Awesomeness\Awesomeness\Awesomeness\obj\Debug\net8.0-windows\Awesomeness.formAwesomeness.resources
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\Awesomeness\Awesomeness\Awesomeness\obj\Debug\net8.0-windows\Awesomeness.csproj.GenerateResource.cache
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\Awesomeness\Awesomeness\Awesomeness\obj\Debug\net8.0-windows\Awesomeness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\Awesomeness\Awesomeness\Awesomeness\obj\Debug\net8.0-windows\Awesomeness.AssemblyInfoInputs.cache
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\Awesomeness\Awesomeness\Awesomeness\obj\Debug\net8.0-windows\Awesomeness.AssemblyInfo.cs
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\Awesomeness\Awesomeness\Awesomeness\obj\Debug\net8.0-windows\Awesomeness.csproj.CoreCompileInputs.cache
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\Awesomeness\Awesomeness\Awesomeness\obj\Debug\net8.0-windows\Awesomeness.dll
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\Awesomeness\Awesomeness\Awesomeness\obj\Debug\net8.0-windows\refint\Awesomeness.dll
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\Awesomeness\Awesomeness\Awesomeness\obj\Debug\net8.0-windows\Awesomeness.pdb
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\Awesomeness\Awesomeness\Awesomeness\obj\Debug\net8.0-windows\Awesomeness.genruntimeconfig.cache
+C:\Users\brend\OneDrive\Documents\Durham College Lectures\Year 2\First Semester\Object Oriented Programming\Awesomeness\Awesomeness\Awesomeness\obj\Debug\net8.0-windows\ref\Awesomeness.dll

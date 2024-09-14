@@ -1,0 +1,14 @@
+C:\Users\100390232\source\repos\ScreenSize\ScreenSize\bin\Debug\net8.0\ScreenSize.exe
+C:\Users\100390232\source\repos\ScreenSize\ScreenSize\bin\Debug\net8.0\ScreenSize.deps.json
+C:\Users\100390232\source\repos\ScreenSize\ScreenSize\bin\Debug\net8.0\ScreenSize.runtimeconfig.json
+C:\Users\100390232\source\repos\ScreenSize\ScreenSize\bin\Debug\net8.0\ScreenSize.dll
+C:\Users\100390232\source\repos\ScreenSize\ScreenSize\bin\Debug\net8.0\ScreenSize.pdb
+C:\Users\100390232\source\repos\ScreenSize\ScreenSize\obj\Debug\net8.0\ScreenSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\100390232\source\repos\ScreenSize\ScreenSize\obj\Debug\net8.0\ScreenSize.AssemblyInfoInputs.cache
+C:\Users\100390232\source\repos\ScreenSize\ScreenSize\obj\Debug\net8.0\ScreenSize.AssemblyInfo.cs
+C:\Users\100390232\source\repos\ScreenSize\ScreenSize\obj\Debug\net8.0\ScreenSize.csproj.CoreCompileInputs.cache
+C:\Users\100390232\source\repos\ScreenSize\ScreenSize\obj\Debug\net8.0\ScreenSize.dll
+C:\Users\100390232\source\repos\ScreenSize\ScreenSize\obj\Debug\net8.0\refint\ScreenSize.dll
+C:\Users\100390232\source\repos\ScreenSize\ScreenSize\obj\Debug\net8.0\ScreenSize.pdb
+C:\Users\100390232\source\repos\ScreenSize\ScreenSize\obj\Debug\net8.0\ScreenSize.genruntimeconfig.cache
+C:\Users\100390232\source\repos\ScreenSize\ScreenSize\obj\Debug\net8.0\ref\ScreenSize.dll

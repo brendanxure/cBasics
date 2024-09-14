@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\100390232\\source\\repos\\ScreenSizeGUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E9BAD2-740F-47B7-9D40-0A135BADB480}|ScreenSizeGUI\\ScreenSizeGUI.csproj|c:\\users\\100390232\\source\\repos\\screensizegui\\screensizegui\\screensize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E9BAD2-740F-47B7-9D40-0A135BADB480}|ScreenSizeGUI\\ScreenSizeGUI.csproj|solutionrelative:screensizegui\\screensize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E9BAD2-740F-47B7-9D40-0A135BADB480}|ScreenSizeGUI\\ScreenSizeGUI.csproj|c:\\users\\100390232\\source\\repos\\screensizegui\\screensizegui\\screensize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8E9BAD2-740F-47B7-9D40-0A135BADB480}|ScreenSizeGUI\\ScreenSizeGUI.csproj|solutionrelative:screensizegui\\screensize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScreenSize.cs",
+              "DocumentMoniker": "C:\\Users\\100390232\\source\\repos\\ScreenSizeGUI\\ScreenSizeGUI\\ScreenSize.cs",
+              "RelativeDocumentMoniker": "ScreenSizeGUI\\ScreenSize.cs",
+              "ToolTip": "C:\\Users\\100390232\\source\\repos\\ScreenSizeGUI\\ScreenSizeGUI\\ScreenSize.cs*",
+              "RelativeToolTip": "ScreenSizeGUI\\ScreenSize.cs*",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAcwEgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T21:15:14.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScreenSize.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\100390232\\source\\repos\\ScreenSizeGUI\\ScreenSizeGUI\\ScreenSize.cs",
+              "RelativeDocumentMoniker": "ScreenSizeGUI\\ScreenSize.cs",
+              "ToolTip": "C:\\Users\\100390232\\source\\repos\\ScreenSizeGUI\\ScreenSizeGUI\\ScreenSize.cs [Design]*",
+              "RelativeToolTip": "ScreenSizeGUI\\ScreenSize.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T20:54:11.054Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

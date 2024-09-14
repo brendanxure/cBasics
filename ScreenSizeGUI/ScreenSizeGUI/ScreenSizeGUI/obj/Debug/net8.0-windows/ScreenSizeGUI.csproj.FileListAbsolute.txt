@@ -1,0 +1,16 @@
+C:\Users\100390232\source\repos\ScreenSizeGUI\ScreenSizeGUI\bin\Debug\net8.0-windows\ScreenSizeGUI.exe
+C:\Users\100390232\source\repos\ScreenSizeGUI\ScreenSizeGUI\bin\Debug\net8.0-windows\ScreenSizeGUI.deps.json
+C:\Users\100390232\source\repos\ScreenSizeGUI\ScreenSizeGUI\bin\Debug\net8.0-windows\ScreenSizeGUI.runtimeconfig.json
+C:\Users\100390232\source\repos\ScreenSizeGUI\ScreenSizeGUI\bin\Debug\net8.0-windows\ScreenSizeGUI.dll
+C:\Users\100390232\source\repos\ScreenSizeGUI\ScreenSizeGUI\bin\Debug\net8.0-windows\ScreenSizeGUI.pdb
+C:\Users\100390232\source\repos\ScreenSizeGUI\ScreenSizeGUI\obj\Debug\net8.0-windows\ScreenSizeGUI.formScreenSize.resources
+C:\Users\100390232\source\repos\ScreenSizeGUI\ScreenSizeGUI\obj\Debug\net8.0-windows\ScreenSizeGUI.csproj.GenerateResource.cache
+C:\Users\100390232\source\repos\ScreenSizeGUI\ScreenSizeGUI\obj\Debug\net8.0-windows\ScreenSizeGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\100390232\source\repos\ScreenSizeGUI\ScreenSizeGUI\obj\Debug\net8.0-windows\ScreenSizeGUI.AssemblyInfoInputs.cache
+C:\Users\100390232\source\repos\ScreenSizeGUI\ScreenSizeGUI\obj\Debug\net8.0-windows\ScreenSizeGUI.AssemblyInfo.cs
+C:\Users\100390232\source\repos\ScreenSizeGUI\ScreenSizeGUI\obj\Debug\net8.0-windows\ScreenSizeGUI.csproj.CoreCompileInputs.cache
+C:\Users\100390232\source\repos\ScreenSizeGUI\ScreenSizeGUI\obj\Debug\net8.0-windows\ScreenSizeGUI.dll
+C:\Users\100390232\source\repos\ScreenSizeGUI\ScreenSizeGUI\obj\Debug\net8.0-windows\refint\ScreenSizeGUI.dll
+C:\Users\100390232\source\repos\ScreenSizeGUI\ScreenSizeGUI\obj\Debug\net8.0-windows\ScreenSizeGUI.pdb
+C:\Users\100390232\source\repos\ScreenSizeGUI\ScreenSizeGUI\obj\Debug\net8.0-windows\ScreenSizeGUI.genruntimeconfig.cache
+C:\Users\100390232\source\repos\ScreenSizeGUI\ScreenSizeGUI\obj\Debug\net8.0-windows\ref\ScreenSizeGUI.dll

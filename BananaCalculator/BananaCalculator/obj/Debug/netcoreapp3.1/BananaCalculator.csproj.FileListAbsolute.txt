@@ -1,0 +1,16 @@
+C:\Users\100390232\Source\Repos\BananaCalculator\bin\Debug\netcoreapp3.1\BananaCalculator.exe
+C:\Users\100390232\Source\Repos\BananaCalculator\bin\Debug\netcoreapp3.1\BananaCalculator.deps.json
+C:\Users\100390232\Source\Repos\BananaCalculator\bin\Debug\netcoreapp3.1\BananaCalculator.runtimeconfig.json
+C:\Users\100390232\Source\Repos\BananaCalculator\bin\Debug\netcoreapp3.1\BananaCalculator.runtimeconfig.dev.json
+C:\Users\100390232\Source\Repos\BananaCalculator\bin\Debug\netcoreapp3.1\BananaCalculator.dll
+C:\Users\100390232\Source\Repos\BananaCalculator\bin\Debug\netcoreapp3.1\BananaCalculator.pdb
+C:\Users\100390232\Source\Repos\BananaCalculator\obj\Debug\netcoreapp3.1\BananaCalculator.csproj.AssemblyReference.cache
+C:\Users\100390232\Source\Repos\BananaCalculator\obj\Debug\netcoreapp3.1\BananaCalculator.csproj.GenerateResource.cache
+C:\Users\100390232\Source\Repos\BananaCalculator\obj\Debug\netcoreapp3.1\BananaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\100390232\Source\Repos\BananaCalculator\obj\Debug\netcoreapp3.1\BananaCalculator.AssemblyInfoInputs.cache
+C:\Users\100390232\Source\Repos\BananaCalculator\obj\Debug\netcoreapp3.1\BananaCalculator.AssemblyInfo.cs
+C:\Users\100390232\Source\Repos\BananaCalculator\obj\Debug\netcoreapp3.1\BananaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\100390232\Source\Repos\BananaCalculator\obj\Debug\netcoreapp3.1\BananaCalculator.dll
+C:\Users\100390232\Source\Repos\BananaCalculator\obj\Debug\netcoreapp3.1\BananaCalculator.pdb
+C:\Users\100390232\Source\Repos\BananaCalculator\obj\Debug\netcoreapp3.1\BananaCalculator.genruntimeconfig.cache
+C:\Users\100390232\Source\Repos\BananaCalculator\obj\Debug\netcoreapp3.1\BananaCalculator.formBananaCalculator.resources

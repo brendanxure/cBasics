@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BananaCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68fb2e3dbd7f80e56c34def9d12e2257fd81b7b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("BananaCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BananaCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\100390232\\.nuget\\packages\\": {}
+    "C:\\Users\\brend\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\100390232\\source\\repos\\ScreenSize\\ScreenSize\\ScreenSize.csproj",
+      "projectUniqueName": "C:\\Users\\brend\\OneDrive\\Documents\\The Best of the best\\C#_Practice\\ScreenSize\\ScreenSize\\ScreenSize\\ScreenSize.csproj",
       "projectName": "ScreenSize",
-      "projectPath": "C:\\Users\\100390232\\source\\repos\\ScreenSize\\ScreenSize\\ScreenSize.csproj",
-      "packagesPath": "C:\\Users\\100390232\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\100390232\\source\\repos\\ScreenSize\\ScreenSize\\obj\\",
+      "projectPath": "C:\\Users\\brend\\OneDrive\\Documents\\The Best of the best\\C#_Practice\\ScreenSize\\ScreenSize\\ScreenSize\\ScreenSize.csproj",
+      "packagesPath": "C:\\Users\\brend\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\brend\\OneDrive\\Documents\\The Best of the best\\C#_Practice\\ScreenSize\\ScreenSize\\ScreenSize\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\100390232\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\brend\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

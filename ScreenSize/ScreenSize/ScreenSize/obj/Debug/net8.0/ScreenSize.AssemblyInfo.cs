@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScreenSize")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2709ca8e3195e42b0f62fa2da5a05d05bcba332a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScreenSize")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScreenSize")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

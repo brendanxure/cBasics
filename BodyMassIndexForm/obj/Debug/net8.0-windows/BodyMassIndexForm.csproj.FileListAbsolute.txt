@@ -1,0 +1,16 @@
+C:\Users\brend\source\repos\BodyMassIndexForm\bin\Debug\net8.0-windows\BodyMassIndexForm.exe
+C:\Users\brend\source\repos\BodyMassIndexForm\bin\Debug\net8.0-windows\BodyMassIndexForm.deps.json
+C:\Users\brend\source\repos\BodyMassIndexForm\bin\Debug\net8.0-windows\BodyMassIndexForm.runtimeconfig.json
+C:\Users\brend\source\repos\BodyMassIndexForm\bin\Debug\net8.0-windows\BodyMassIndexForm.dll
+C:\Users\brend\source\repos\BodyMassIndexForm\bin\Debug\net8.0-windows\BodyMassIndexForm.pdb
+C:\Users\brend\source\repos\BodyMassIndexForm\obj\Debug\net8.0-windows\BodyMassIndexForm.csproj.GenerateResource.cache
+C:\Users\brend\source\repos\BodyMassIndexForm\obj\Debug\net8.0-windows\BodyMassIndexForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brend\source\repos\BodyMassIndexForm\obj\Debug\net8.0-windows\BodyMassIndexForm.AssemblyInfoInputs.cache
+C:\Users\brend\source\repos\BodyMassIndexForm\obj\Debug\net8.0-windows\BodyMassIndexForm.AssemblyInfo.cs
+C:\Users\brend\source\repos\BodyMassIndexForm\obj\Debug\net8.0-windows\BodyMassIndexForm.csproj.CoreCompileInputs.cache
+C:\Users\brend\source\repos\BodyMassIndexForm\obj\Debug\net8.0-windows\BodyMassIndexForm.dll
+C:\Users\brend\source\repos\BodyMassIndexForm\obj\Debug\net8.0-windows\refint\BodyMassIndexForm.dll
+C:\Users\brend\source\repos\BodyMassIndexForm\obj\Debug\net8.0-windows\BodyMassIndexForm.pdb
+C:\Users\brend\source\repos\BodyMassIndexForm\obj\Debug\net8.0-windows\BodyMassIndexForm.genruntimeconfig.cache
+C:\Users\brend\source\repos\BodyMassIndexForm\obj\Debug\net8.0-windows\ref\BodyMassIndexForm.dll
+C:\Users\brend\source\repos\BodyMassIndexForm\obj\Debug\net8.0-windows\BodyMassIndexForm.BodyMassIndexCalculator.resources

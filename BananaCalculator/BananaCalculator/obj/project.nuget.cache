@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gcK6M5xJ3Go=",
+  "dgSpecHash": "NwKftXt/xhg=",
   "success": true,
   "projectFilePath": "C:\\Users\\brend\\OneDrive\\Documents\\The Best of the best\\C#_Practice\\BananaCalculator\\BananaCalculator\\BananaCalculator.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\brend\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\brend\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\brend\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\brend\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

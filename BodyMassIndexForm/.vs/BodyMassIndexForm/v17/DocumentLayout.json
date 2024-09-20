@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brend\\OneDrive\\Documents\\Durham College Lectures\\Year 2\\First Semester\\Object Oriented Programming\\In class\\BodyMassIndexForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E77C335-EF6A-49B8-A7ED-80D222DBAE56}|BodyMassIndexForm.csproj|c:\\users\\brend\\onedrive\\documents\\durham college lectures\\year 2\\first semester\\object oriented programming\\in class\\bodymassindexform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E77C335-EF6A-49B8-A7ED-80D222DBAE56}|BodyMassIndexForm.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E77C335-EF6A-49B8-A7ED-80D222DBAE56}|BodyMassIndexForm.csproj|c:\\users\\brend\\onedrive\\documents\\durham college lectures\\year 2\\first semester\\object oriented programming\\in class\\bodymassindexform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E77C335-EF6A-49B8-A7ED-80D222DBAE56}|BodyMassIndexForm.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E77C335-EF6A-49B8-A7ED-80D222DBAE56}|BodyMassIndexForm.csproj|C:\\Users\\brend\\OneDrive\\Documents\\Durham College Lectures\\Year 2\\First Semester\\Object Oriented Programming\\In class\\BodyMassIndexForm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E77C335-EF6A-49B8-A7ED-80D222DBAE56}|BodyMassIndexForm.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\brend\\OneDrive\\Documents\\Durham College Lectures\\Year 2\\First Semester\\Object Oriented Programming\\In class\\BodyMassIndexForm\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\brend\\OneDrive\\Documents\\Durham College Lectures\\Year 2\\First Semester\\Object Oriented Programming\\In class\\BodyMassIndexForm\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T14:05:36.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\brend\\OneDrive\\Documents\\Durham College Lectures\\Year 2\\First Semester\\Object Oriented Programming\\In class\\BodyMassIndexForm\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\brend\\OneDrive\\Documents\\Durham College Lectures\\Year 2\\First Semester\\Object Oriented Programming\\In class\\BodyMassIndexForm\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:53:48.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\brend\\OneDrive\\Documents\\Durham College Lectures\\Year 2\\First Semester\\Object Oriented Programming\\In class\\BodyMassIndexForm\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\brend\\source\\repos\\BodyMassIndexForm\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\source\\repos\\BodyMassIndexForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:52:47.51Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

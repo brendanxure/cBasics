@@ -1,0 +1,60 @@
+﻿<Window x:Class="TooManyPets.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TooManyPets"
+        mc:Ignorable="d"
+        Title="Too Many Pets?" FontSize="16"
+        Height="350" Width="600" 
+        MinHeight="340" MinWidth="550" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition MinWidth="280" Width="7*"/>
+            <ColumnDefinition Width="8*"/>
+        </Grid.ColumnDefinitions>
+
+        <!--Row 0-->
+        <Label Content="How many people are in the _home?:" Target="{Binding ElementName=textPeople}" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="35,0,0,0" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="textPeople" TextWrapping="Wrap" Text=" " VerticalAlignment="Center" Width="120" Grid.Column="1" HorizontalAlignment="Left" ToolTip="Enter how many people are in this home." Margin="76,0,0,0"/>
+
+        <!--Row 1-->
+        <Label Content="How many c_ats are there?:" Target="{Binding ElementName=textCats}" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="1" Margin="104,0,0,0" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="textCats" TextWrapping="Wrap" Text=" " VerticalAlignment="Center" Width="120" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Left" ToolTip="Enter how many cats are in the home." Margin="76,0,0,0"/>
+
+        <!--Row 2-->
+        <Label Content="How many _dogs are there?:" Target="{Binding ElementName=textDogs}" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="2" Margin="97,0,0,0" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="textDogs" TextWrapping="Wrap" Text=" " VerticalAlignment="Center" Width="120" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Left" ToolTip="Enter how many dogs are in the home." Margin="76,0,0,0"/>
+
+        <!--Row 3-->
+        <Label Content="How many _birds are there?:" Target="{Binding ElementName=textBirds}" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="3" Margin="97,0,0,0" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="textBirds" TextWrapping="Wrap" Text=" " VerticalAlignment="Center" Width="120" Grid.Row="3" Grid.Column="1" HorizontalAlignment="Left" ToolTip="Enter how many birds are in the home." Margin="76,0,0,0"/>
+
+        <!--Row 4-->
+        <Label Content="Are there _fish?:" Target="{Binding ElementName=checkFish, Mode=OneWay}" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="4" Margin="185,0,0,0" Grid.ColumnSpan="2"/>
+        <CheckBox x:Name="checkFish" Grid.Column="1" HorizontalAlignment="Left" Grid.Row="4" VerticalAlignment="Center" ToolTip="Check if there are fish in the home." Margin="76,0,0,0"/>
+
+        <!--Row 5-->
+        <Label Content="How many _other pets are there?:" Target="{Binding ElementName=textOther}" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="5" Margin="60,0,0,0" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="textOther" TextWrapping="Wrap" Text=" " VerticalAlignment="Center" Width="120" Grid.Row="5" Grid.Column="1" HorizontalAlignment="Left" ToolTip="Enter the number of other pets in the home." Margin="76,0,0,0"/>
+
+        <!--Row 6-->
+        <TextBox x:Name="textOutput" VerticalAlignment="Center" Grid.Row="6" Grid.ColumnSpan="2" HorizontalContentAlignment="Center" Margin="5,0,5,0" BorderBrush="#FF001965" BorderThickness="2" IsReadOnly="True" ToolTip="Displays output related to the entered number of pets." />
+
+        <!--Row 7-->
+        <Button x:Name="buttonCheck" Content="_Check My Pets" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="7" IsDefault="True" MinWidth="80" ToolTip="Click to determine how your number of pets is reflective of your ability to be a human." Click="CheckClick" Margin="97,0,0,0" />
+        <Button x:Name="buttonClear" Content="C_lear Info" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="7" IsCancel="True" MinWidth="80" ToolTip="Click to reset all input fields." Click="ClearClick" Margin="53,0,0,0" Grid.Column="1"/>
+        <Button x:Name="buttonExit" Content="E_xit" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="7" Grid.Column="1" MinWidth="80" ToolTip="Click to exit." Click="ExitClick" Margin="158,0,0,0"/>
+
+    </Grid>
+</Window>

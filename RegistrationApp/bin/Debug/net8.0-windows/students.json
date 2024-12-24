@@ -1,0 +1,20 @@
+{
+  "firstName": "Samer",
+  "lastName": "Moussa",
+  "SIN": 1234,
+  "Email": "samer.moussa@example.com",
+  "highSchoolGrade": 90,
+  "admissionTestScore": 90,
+  "campusLocation": "QC",
+  "programName": "Engineering"
+}
+{
+  "firstName": "Brendan",
+  "lastName": "Xure",
+  "SIN": 123456,
+  "Email": "brendanxure@example.com",
+  "highSchoolGrade": 80,
+  "admissionTestScore": 90,
+  "campusLocation": "ON",
+  "programName": "Science and Art"
+}

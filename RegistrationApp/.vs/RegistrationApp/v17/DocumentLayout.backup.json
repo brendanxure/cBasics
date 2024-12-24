@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brend\\OneDrive\\Documents\\The Best of the best\\schoolwork\\OOP2\\RegistrationApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF1A97C-B4F0-4701-99C3-6879B2A17A44}|RegistrationApp.csproj|c:\\users\\brend\\onedrive\\documents\\the best of the best\\schoolwork\\oop2\\registrationapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF1A97C-B4F0-4701-99C3-6879B2A17A44}|RegistrationApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF1A97C-B4F0-4701-99C3-6879B2A17A44}|RegistrationApp.csproj|c:\\users\\brend\\onedrive\\documents\\the best of the best\\schoolwork\\oop2\\registrationapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF1A97C-B4F0-4701-99C3-6879B2A17A44}|RegistrationApp.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF1A97C-B4F0-4701-99C3-6879B2A17A44}|RegistrationApp.csproj|C:\\Users\\brend\\OneDrive\\Documents\\The Best of the best\\schoolwork\\OOP2\\RegistrationApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCF1A97C-B4F0-4701-99C3-6879B2A17A44}|RegistrationApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF1A97C-B4F0-4701-99C3-6879B2A17A44}|RegistrationApp.csproj|c:\\users\\brend\\onedrive\\documents\\the best of the best\\schoolwork\\oop2\\registrationapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF1A97C-B4F0-4701-99C3-6879B2A17A44}|RegistrationApp.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF1A97C-B4F0-4701-99C3-6879B2A17A44}|RegistrationApp.csproj|c:\\users\\brend\\onedrive\\documents\\the best of the best\\schoolwork\\oop2\\registrationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF1A97C-B4F0-4701-99C3-6879B2A17A44}|RegistrationApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF1A97C-B4F0-4701-99C3-6879B2A17A44}|RegistrationApp.csproj|c:\\users\\brend\\onedrive\\documents\\the best of the best\\schoolwork\\oop2\\registrationapp\\programs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF1A97C-B4F0-4701-99C3-6879B2A17A44}|RegistrationApp.csproj|solutionrelative:programs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF1A97C-B4F0-4701-99C3-6879B2A17A44}|RegistrationApp.csproj|c:\\users\\brend\\onedrive\\documents\\the best of the best\\schoolwork\\oop2\\registrationapp\\campus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF1A97C-B4F0-4701-99C3-6879B2A17A44}|RegistrationApp.csproj|solutionrelative:campus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF1A97C-B4F0-4701-99C3-6879B2A17A44}|RegistrationApp.csproj|c:\\users\\brend\\onedrive\\documents\\the best of the best\\schoolwork\\oop2\\registrationapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF1A97C-B4F0-4701-99C3-6879B2A17A44}|RegistrationApp.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF1A97C-B4F0-4701-99C3-6879B2A17A44}|RegistrationApp.csproj|C:\\Users\\brend\\OneDrive\\Documents\\The Best of the best\\schoolwork\\OOP2\\RegistrationApp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCF1A97C-B4F0-4701-99C3-6879B2A17A44}|RegistrationApp.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\brend\\OneDrive\\Documents\\The Best of the best\\schoolwork\\OOP2\\RegistrationApp\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\brend\\OneDrive\\Documents\\The Best of the best\\schoolwork\\OOP2\\RegistrationApp\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:31:46.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\brend\\OneDrive\\Documents\\The Best of the best\\schoolwork\\OOP2\\RegistrationApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\brend\\OneDrive\\Documents\\The Best of the best\\schoolwork\\OOP2\\RegistrationApp\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAKMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T23:40:31.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\brend\\OneDrive\\Documents\\The Best of the best\\schoolwork\\OOP2\\RegistrationApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\brend\\OneDrive\\Documents\\The Best of the best\\schoolwork\\OOP2\\RegistrationApp\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:17:46.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brend\\OneDrive\\Documents\\The Best of the best\\schoolwork\\OOP2\\RegistrationApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\brend\\OneDrive\\Documents\\The Best of the best\\schoolwork\\OOP2\\RegistrationApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:52:33.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Campus.cs",
+              "DocumentMoniker": "C:\\Users\\brend\\OneDrive\\Documents\\The Best of the best\\schoolwork\\OOP2\\RegistrationApp\\Campus.cs",
+              "RelativeDocumentMoniker": "Campus.cs",
+              "ToolTip": "C:\\Users\\brend\\OneDrive\\Documents\\The Best of the best\\schoolwork\\OOP2\\RegistrationApp\\Campus.cs",
+              "RelativeToolTip": "Campus.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:54:24.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\brend\\OneDrive\\Documents\\The Best of the best\\schoolwork\\OOP2\\RegistrationApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\brend\\OneDrive\\Documents\\The Best of the best\\schoolwork\\OOP2\\RegistrationApp\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T23:23:18.272Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Programs.cs",
+              "DocumentMoniker": "C:\\Users\\brend\\OneDrive\\Documents\\The Best of the best\\schoolwork\\OOP2\\RegistrationApp\\Programs.cs",
+              "RelativeDocumentMoniker": "Programs.cs",
+              "ToolTip": "C:\\Users\\brend\\OneDrive\\Documents\\The Best of the best\\schoolwork\\OOP2\\RegistrationApp\\Programs.cs",
+              "RelativeToolTip": "Programs.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:53:28.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\brend\\OneDrive\\Documents\\The Best of the best\\schoolwork\\OOP2\\RegistrationApp\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\brend\\OneDrive\\Documents\\The Best of the best\\schoolwork\\OOP2\\RegistrationApp\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T02:19:52.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\brend\\OneDrive\\Documents\\The Best of the best\\schoolwork\\OOP2\\RegistrationApp\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\brend\\source\\repos\\RegistrationApp\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\RegistrationApp\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T02:18:11.287Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

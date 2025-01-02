@@ -1,0 +1,16 @@
+C:\Users\brend\source\repos\DeckBuilder\bin\Debug\net8.0-windows\DeckBuilder.exe
+C:\Users\brend\source\repos\DeckBuilder\bin\Debug\net8.0-windows\DeckBuilder.deps.json
+C:\Users\brend\source\repos\DeckBuilder\bin\Debug\net8.0-windows\DeckBuilder.runtimeconfig.json
+C:\Users\brend\source\repos\DeckBuilder\bin\Debug\net8.0-windows\DeckBuilder.dll
+C:\Users\brend\source\repos\DeckBuilder\bin\Debug\net8.0-windows\DeckBuilder.pdb
+C:\Users\brend\source\repos\DeckBuilder\obj\Debug\net8.0-windows\DeckBuilder.DeckBuilder.resources
+C:\Users\brend\source\repos\DeckBuilder\obj\Debug\net8.0-windows\DeckBuilder.csproj.GenerateResource.cache
+C:\Users\brend\source\repos\DeckBuilder\obj\Debug\net8.0-windows\DeckBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brend\source\repos\DeckBuilder\obj\Debug\net8.0-windows\DeckBuilder.AssemblyInfoInputs.cache
+C:\Users\brend\source\repos\DeckBuilder\obj\Debug\net8.0-windows\DeckBuilder.AssemblyInfo.cs
+C:\Users\brend\source\repos\DeckBuilder\obj\Debug\net8.0-windows\DeckBuilder.csproj.CoreCompileInputs.cache
+C:\Users\brend\source\repos\DeckBuilder\obj\Debug\net8.0-windows\DeckBuilder.dll
+C:\Users\brend\source\repos\DeckBuilder\obj\Debug\net8.0-windows\refint\DeckBuilder.dll
+C:\Users\brend\source\repos\DeckBuilder\obj\Debug\net8.0-windows\DeckBuilder.pdb
+C:\Users\brend\source\repos\DeckBuilder\obj\Debug\net8.0-windows\DeckBuilder.genruntimeconfig.cache
+C:\Users\brend\source\repos\DeckBuilder\obj\Debug\net8.0-windows\ref\DeckBuilder.dll
